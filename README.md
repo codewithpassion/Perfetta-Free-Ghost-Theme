@@ -1,5 +1,7 @@
 # Perfetta
 
+**Theme modified for codewithpassion.com**
+
 Free theme for [Ghost](http://github.com/tryghost/ghost/) prepared by [GavickPro](http://www.gavick.com/).
 
 [-> DEMO <-](http://perfetta.ghost.io)
